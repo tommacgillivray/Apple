@@ -1,0 +1,11 @@
+#include<stdio.h>
+#include<stdlib.h>
+int main(void)
+{
+       int a,b,c,sum; //defining variables
+       a = 1;         // assigning values
+       b = 2;
+       c = 3;
+
+       
+       }
